@@ -19,6 +19,10 @@ int main()
 
 	result = fnum/snum;
 	cout << result << endl;
+
+	result = fnum%snum;
+	cout << result << endl;
+
 return 0;
 }
 
