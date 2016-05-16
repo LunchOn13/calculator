@@ -9,7 +9,10 @@ int main()
 	cin >> fnum;
 	cin >> snum;
 
-	cout << fnum+snum;
+	cout << fnum+snum << endl;
+
+
+	cout << fnum-snum << endl;
 
 return 0;
 }
