@@ -6,10 +6,10 @@ int main()
 	int fnum=0;
 	int snum=0;
 	int result=0;
-
 	
 	cin >> fnum;
 	cin >> snum;
+
 
 	result = fnum+snum;
 	cout << result << endl;
@@ -17,20 +17,12 @@ int main()
 	result = fnum-snum;
 	cout << result << endl;
 
-	if (snum != 0)
-	{
 	result = fnum/snum;
 	cout << result << endl;
-	
+
 	result = fnum%snum;
-        cout << result << endl;
-	}
-
-
-	if(snum==0)
-        cout << "division by Zero";
-
-
+	cout << result << endl;
 
 return 0;
 }
+
