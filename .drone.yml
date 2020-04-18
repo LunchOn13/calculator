@@ -4,6 +4,7 @@ name: test
 
 steps:
 - name: test
-  image: ubuntu:latest
+  image: none
   commands:
-  - echo hello
+  - echo "hello"
+ 
