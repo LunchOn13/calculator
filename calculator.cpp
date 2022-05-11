@@ -7,7 +7,7 @@ int main()
 	int snum=0;
 	int result=0;
 
-	
+	// add master 1	
 	cin >> fnum;
 	cin >> snum;
 
