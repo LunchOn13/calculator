@@ -8,6 +8,7 @@ int main()
 	int result=0;
 
 	// branch 2
+	// branch 22
 	cin >> fnum;
 	cin >> snum;
 
