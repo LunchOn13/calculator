@@ -7,7 +7,7 @@ int main()
 	int snum=0;
 	int result=0;
 
-	
+	// branch 1 test
 	cin >> fnum;
 	cin >> snum;
 
